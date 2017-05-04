@@ -11,5 +11,6 @@ Spring Boot系列
 - [7.整合dubbo](https://netfilx.github.io/spring-boot/7.springboot-dubbo/springboot-dubbo)
 - [8.整合RabbitMQ](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-rabbitmq)
 - [9.使用javamail](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-javamail)
+- [10.使用定时任务](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-scheduledtask)
 
 
