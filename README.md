@@ -10,7 +10,8 @@ Spring Boot系列
 - [6.集成redis实现缓存](https://netfilx.github.io/spring-boot/6.springboot-redis-cache/cache)
 - [7.整合dubbo](https://netfilx.github.io/spring-boot/7.springboot-dubbo/springboot-dubbo)
 - [8.整合RabbitMQ](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-rabbitmq)
-- [9.使用javamail](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-javamail)
-- [10.使用定时任务](https://netfilx.github.io/spring-boot/8.springboot-rabbitmq/springboot-scheduledtask)
+- [9.使用javamail](https://netfilx.github.io/spring-boot/9.springboot-javamail/springboot-javamail)
+- [10.使用定时任务](https://netfilx.github.io/spring-boot/10.springboot-scheduledtask/springboot-scheduledtask)
+- [11.整合spring security](https://netfilx.github.io/spring-boot/11.springboot-security/springboot-security)
 
 
