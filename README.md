@@ -13,5 +13,6 @@ Spring Boot系列
 - [9.使用javamail](https://netfilx.github.io/spring-boot/9.springboot-javamail/springboot-javamail)
 - [10.使用定时任务](https://netfilx.github.io/spring-boot/10.springboot-scheduledtask/springboot-scheduledtask)
 - [11.整合spring security](https://netfilx.github.io/spring-boot/11.springboot-security/springboot-security)
+- [12.文件上传](https://netfilx.github.io/spring-boot/12.springboot-upload-file/springboot-upload-file)
 
 
